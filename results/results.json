@@ -1,0 +1,591 @@
+{
+    "matches": [
+        {
+            "Date": "2024-06-14 19:59:59.712000",
+            "Team1": "Germany",
+            "Team1Score": 1,
+            "Team2Score": 0,
+            "Team2": "Scotland",
+            "CorrectOutcomePoints": 1,
+            "ExactScorePoints": 2,
+            "Stage": "Group Stage",
+            "Group": "Group A"
+        },
+        {
+            "Date": "2024-06-15 13:59:59.712000",
+            "Team1": "Hungary",
+            "Team1Score": 2,
+            "Team2Score": 0,
+            "Team2": "Switzerland",
+            "CorrectOutcomePoints": 1,
+            "ExactScorePoints": 2,
+            "Stage": "Group Stage",
+            "Group": "Group A"
+        },
+        {
+            "Date": "2024-06-19 16:59:59.712000",
+            "Team1": "Germany",
+            "Team1Score": 3,
+            "Team2Score": 0,
+            "Team2": "Hungary",
+            "CorrectOutcomePoints": 1,
+            "ExactScorePoints": 2,
+            "Stage": "Group Stage",
+            "Group": "Group A"
+        },
+        {
+            "Date": "2024-06-19 19:59:59.712000",
+            "Team1": "Scotland",
+            "Team1Score": 3,
+            "Team2Score": 1,
+            "Team2": "Switzerland",
+            "CorrectOutcomePoints": 1,
+            "ExactScorePoints": 2,
+            "Stage": "Group Stage",
+            "Group": "Group A"
+        },
+        {
+            "Date": "2024-06-23 19:59:59.712000",
+            "Team1": "Switzerland",
+            "Team1Score": 2,
+            "Team2Score": 1,
+            "Team2": "Germany",
+            "CorrectOutcomePoints": 1,
+            "ExactScorePoints": 2,
+            "Stage": "Group Stage",
+            "Group": "Group A"
+        },
+        {
+            "Date": "2024-06-23 19:59:59.712000",
+            "Team1": "Scotland",
+            "Team1Score": 1,
+            "Team2Score": 0,
+            "Team2": "Hungary",
+            "CorrectOutcomePoints": 1,
+            "ExactScorePoints": 2,
+            "Stage": "Group Stage",
+            "Group": "Group A"
+        },
+        {
+            "Date": "2024-06-15 16:59:59.712000",
+            "Team1": "Spain",
+            "Team1Score": 1,
+            "Team2Score": 0,
+            "Team2": "Croatia",
+            "CorrectOutcomePoints": 1,
+            "ExactScorePoints": 2,
+            "Stage": "Group Stage",
+            "Group": "Group B"
+        },
+        {
+            "Date": "2024-06-15 19:59:59.712000",
+            "Team1": "Italy",
+            "Team1Score": 1,
+            "Team2Score": 0,
+            "Team2": "Albania",
+            "CorrectOutcomePoints": 1,
+            "ExactScorePoints": 2,
+            "Stage": "Group Stage",
+            "Group": "Group B"
+        },
+        {
+            "Date": "2024-06-19 13:59:59.712000",
+            "Team1": "Croatia",
+            "Team1Score": 1,
+            "Team2Score": 0,
+            "Team2": "Albania",
+            "CorrectOutcomePoints": 1,
+            "ExactScorePoints": 2,
+            "Stage": "Group Stage",
+            "Group": "Group B"
+        },
+        {
+            "Date": "2024-06-20 19:59:59.712000",
+            "Team1": "Spain",
+            "Team1Score": 1,
+            "Team2Score": 0,
+            "Team2": "Italy",
+            "CorrectOutcomePoints": 1,
+            "ExactScorePoints": 2,
+            "Stage": "Group Stage",
+            "Group": "Group B"
+        },
+        {
+            "Date": "2024-06-24 19:59:59.712000",
+            "Team1": "Albania",
+            "Team1Score": 1,
+            "Team2Score": 0,
+            "Team2": "Spain",
+            "CorrectOutcomePoints": 1,
+            "ExactScorePoints": 2,
+            "Stage": "Group Stage",
+            "Group": "Group B"
+        },
+        {
+            "Date": "2024-06-24 19:59:59.712000",
+            "Team1": "Croatia",
+            "Team1Score": 1,
+            "Team2Score": 0,
+            "Team2": "Italy",
+            "CorrectOutcomePoints": 1,
+            "ExactScorePoints": 2,
+            "Stage": "Group Stage",
+            "Group": "Group B"
+        },
+        {
+            "Date": "2024-06-16 16:59:59.712000",
+            "Team1": "Slovenia",
+            "Team1Score": 1,
+            "Team2Score": 0,
+            "Team2": "Denmark",
+            "CorrectOutcomePoints": 1,
+            "ExactScorePoints": 2,
+            "Stage": "Group Stage",
+            "Group": "Group C"
+        },
+        {
+            "Date": "2024-06-16 19:59:59.712000",
+            "Team1": "Serbia",
+            "Team1Score": 1,
+            "Team2Score": 0,
+            "Team2": "England",
+            "CorrectOutcomePoints": 1,
+            "ExactScorePoints": 2,
+            "Stage": "Group Stage",
+            "Group": "Group C"
+        },
+        {
+            "Date": "2024-06-20 13:59:59.712000",
+            "Team1": "Slovenia",
+            "Team1Score": 1,
+            "Team2Score": 0,
+            "Team2": "Serbia",
+            "CorrectOutcomePoints": 1,
+            "ExactScorePoints": 2,
+            "Stage": "Group Stage",
+            "Group": "Group C"
+        },
+        {
+            "Date": "2024-06-20 16:59:59.712000",
+            "Team1": "Denmark",
+            "Team1Score": 1,
+            "Team2Score": 0,
+            "Team2": "England",
+            "CorrectOutcomePoints": 1,
+            "ExactScorePoints": 2,
+            "Stage": "Group Stage",
+            "Group": "Group C"
+        },
+        {
+            "Date": "2024-06-25 19:59:59.712000",
+            "Team1": "England",
+            "Team1Score": 1,
+            "Team2Score": 0,
+            "Team2": "Slovenia",
+            "CorrectOutcomePoints": 1,
+            "ExactScorePoints": 2,
+            "Stage": "Group Stage",
+            "Group": "Group C"
+        },
+        {
+            "Date": "2024-06-25 19:59:59.712000",
+            "Team1": "Denmark",
+            "Team1Score": 1,
+            "Team2Score": 0,
+            "Team2": "Serbia",
+            "CorrectOutcomePoints": 1,
+            "ExactScorePoints": 2,
+            "Stage": "Group Stage",
+            "Group": "Group C"
+        },
+        {
+            "Date": "2024-06-16 13:59:59.712000",
+            "Team1": "Poland",
+            "Team1Score": 1,
+            "Team2Score": 0,
+            "Team2": "Netherlands",
+            "CorrectOutcomePoints": 1,
+            "ExactScorePoints": 2,
+            "Stage": "Group Stage",
+            "Group": "Group D"
+        },
+        {
+            "Date": "2024-06-17 19:59:59.712000",
+            "Team1": "Austria",
+            "Team1Score": 1,
+            "Team2Score": 0,
+            "Team2": "France",
+            "CorrectOutcomePoints": 1,
+            "ExactScorePoints": 2,
+            "Stage": "Group Stage",
+            "Group": "Group D"
+        },
+        {
+            "Date": "2024-06-21 16:59:59.712000",
+            "Team1": "Poland",
+            "Team1Score": 1,
+            "Team2Score": 0,
+            "Team2": "Austria",
+            "CorrectOutcomePoints": 1,
+            "ExactScorePoints": 2,
+            "Stage": "Group Stage",
+            "Group": "Group D"
+        },
+        {
+            "Date": "2024-06-21 19:59:59.712000",
+            "Team1": "Netherlands",
+            "Team1Score": 1,
+            "Team2Score": 0,
+            "Team2": "France",
+            "CorrectOutcomePoints": 1,
+            "ExactScorePoints": 2,
+            "Stage": "Group Stage",
+            "Group": "Group D"
+        },
+        {
+            "Date": "2024-06-25 16:59:59.712000",
+            "Team1": "Netherlands",
+            "Team1Score": 1,
+            "Team2Score": 0,
+            "Team2": "Austria",
+            "CorrectOutcomePoints": 1,
+            "ExactScorePoints": 2,
+            "Stage": "Group Stage",
+            "Group": "Group D"
+        },
+        {
+            "Date": "2024-06-25 16:59:59.712000",
+            "Team1": "France",
+            "Team1Score": 1,
+            "Team2Score": 0,
+            "Team2": "Poland",
+            "CorrectOutcomePoints": 1,
+            "ExactScorePoints": 2,
+            "Stage": "Group Stage",
+            "Group": "Group D"
+        },
+        {
+            "Date": "2024-06-17 13:59:59.712000",
+            "Team1": "Romania",
+            "Team1Score": 1,
+            "Team2Score": 0,
+            "Team2": "Ukraine",
+            "CorrectOutcomePoints": 1,
+            "ExactScorePoints": 2,
+            "Stage": "Group Stage",
+            "Group": "Group E"
+        },
+        {
+            "Date": "2024-06-17 16:59:59.712000",
+            "Team1": "Belgium",
+            "Team1Score": 1,
+            "Team2Score": 0,
+            "Team2": "Slovakia",
+            "CorrectOutcomePoints": 1,
+            "ExactScorePoints": 2,
+            "Stage": "Group Stage",
+            "Group": "Group E"
+        },
+        {
+            "Date": "2024-06-21 13:59:59.712000",
+            "Team1": "Slovakia",
+            "Team1Score": 1,
+            "Team2Score": 0,
+            "Team2": "Ukraine",
+            "CorrectOutcomePoints": 1,
+            "ExactScorePoints": 2,
+            "Stage": "Group Stage",
+            "Group": "Group E"
+        },
+        {
+            "Date": "2024-06-22 19:59:59.712000",
+            "Team1": "Belgium",
+            "Team1Score": 1,
+            "Team2Score": 0,
+            "Team2": "Romania",
+            "CorrectOutcomePoints": 1,
+            "ExactScorePoints": 2,
+            "Stage": "Group Stage",
+            "Group": "Group E"
+        },
+        {
+            "Date": "2024-06-26 16:59:59.712000",
+            "Team1": "Slovakia",
+            "Team1Score": 1,
+            "Team2Score": 0,
+            "Team2": "Romania",
+            "CorrectOutcomePoints": 1,
+            "ExactScorePoints": 2,
+            "Stage": "Group Stage",
+            "Group": "Group E"
+        },
+        {
+            "Date": "2024-06-26 16:59:59.712000",
+            "Team1": "Ukraine",
+            "Team1Score": 1,
+            "Team2Score": 0,
+            "Team2": "Belgium",
+            "CorrectOutcomePoints": 1,
+            "ExactScorePoints": 2,
+            "Stage": "Group Stage",
+            "Group": "Group E"
+        },
+        {
+            "Date": "2024-06-18 16:59:59.712000",
+            "Team1": "T\u00fcrkiye",
+            "Team1Score": 1,
+            "Team2Score": 0,
+            "Team2": "Georgia",
+            "CorrectOutcomePoints": 1,
+            "ExactScorePoints": 2,
+            "Stage": "Group Stage",
+            "Group": "Group F"
+        },
+        {
+            "Date": "2024-06-18 19:59:59.712000",
+            "Team1": "Portugal",
+            "Team1Score": 1,
+            "Team2Score": 0,
+            "Team2": "Czechia",
+            "CorrectOutcomePoints": 1,
+            "ExactScorePoints": 2,
+            "Stage": "Group Stage",
+            "Group": "Group F"
+        },
+        {
+            "Date": "2024-06-22 13:59:59.712000",
+            "Team1": "Georgia",
+            "Team1Score": 1,
+            "Team2Score": 0,
+            "Team2": "Czechia",
+            "CorrectOutcomePoints": 1,
+            "ExactScorePoints": 2,
+            "Stage": "Group Stage",
+            "Group": "Group F"
+        },
+        {
+            "Date": "2024-06-22 16:59:59.712000",
+            "Team1": "T\u00fcrkiye",
+            "Team1Score": 1,
+            "Team2Score": 0,
+            "Team2": "Portugal",
+            "CorrectOutcomePoints": 1,
+            "ExactScorePoints": 2,
+            "Stage": "Group Stage",
+            "Group": "Group F"
+        },
+        {
+            "Date": "2024-06-26 19:59:59.712000",
+            "Team1": "Georgia",
+            "Team1Score": 1,
+            "Team2Score": 0,
+            "Team2": "Portugal",
+            "CorrectOutcomePoints": 1,
+            "ExactScorePoints": 2,
+            "Stage": "Group Stage",
+            "Group": "Group F"
+        },
+        {
+            "Date": "2024-06-26 19:59:59.712000",
+            "Team1": "Czechia",
+            "Team1Score": 1,
+            "Team2Score": 0,
+            "Team2": "T\u00fcrkiye",
+            "CorrectOutcomePoints": 1,
+            "ExactScorePoints": 2,
+            "Stage": "Group Stage",
+            "Group": "Group F"
+        },
+        {
+            "Date": "2024-06-30 16:00:00",
+            "Team1": "Germany",
+            "Team1Score": 3,
+            "Team2Score": 1,
+            "Team2": "Ukraine",
+            "CorrectOutcomePoints": 2,
+            "ExactScorePoints": 4,
+            "Stage": "Round of 16",
+            "Group": ""
+        },
+        {
+            "Date": "2024-06-30 19:00:00",
+            "Team1": "Belgium",
+            "Team1Score": 2,
+            "Team2Score": 0,
+            "Team2": "Hungary",
+            "CorrectOutcomePoints": 2,
+            "ExactScorePoints": 4,
+            "Stage": "Round of 16",
+            "Group": ""
+        },
+        {
+            "Date": "2024-07-01 16:00:00",
+            "Team1": "England",
+            "Team1Score": 2,
+            "Team2Score": 1,
+            "Team2": "Italy",
+            "CorrectOutcomePoints": 2,
+            "ExactScorePoints": 4,
+            "Stage": "Round of 16",
+            "Group": ""
+        },
+        {
+            "Date": "2024-07-01 19:00:00",
+            "Team1": "France",
+            "Team1Score": 2,
+            "Team2Score": 1,
+            "Team2": "Sweden",
+            "CorrectOutcomePoints": 2,
+            "ExactScorePoints": 4,
+            "Stage": "Round of 16",
+            "Group": ""
+        },
+        {
+            "Date": "2024-07-02 16:00:00",
+            "Team1": "Spain",
+            "Team1Score": 3,
+            "Team2Score": 2,
+            "Team2": "Austria",
+            "CorrectOutcomePoints": 2,
+            "ExactScorePoints": 4,
+            "Stage": "Round of 16",
+            "Group": ""
+        },
+        {
+            "Date": "2024-07-02 19:00:00",
+            "Team1": "Portugal",
+            "Team1Score": 2,
+            "Team2Score": 1,
+            "Team2": "Czech Republic",
+            "CorrectOutcomePoints": 2,
+            "ExactScorePoints": 4,
+            "Stage": "Round of 16",
+            "Group": ""
+        },
+        {
+            "Date": "2024-07-03 16:00:00",
+            "Team1": "Netherlands",
+            "Team1Score": 3,
+            "Team2Score": 1,
+            "Team2": "Denmark",
+            "CorrectOutcomePoints": 2,
+            "ExactScorePoints": 4,
+            "Stage": "Round of 16",
+            "Group": ""
+        },
+        {
+            "Date": "2024-07-03 19:00:00",
+            "Team1": "Poland",
+            "Team1Score": 2,
+            "Team2Score": 1,
+            "Team2": "Russia",
+            "CorrectOutcomePoints": 2,
+            "ExactScorePoints": 4,
+            "Stage": "Round of 16",
+            "Group": ""
+        },
+        {
+            "Date": "2024-07-05 16:00:00",
+            "Team1": "Germany",
+            "Team1Score": 2,
+            "Team2Score": 0,
+            "Team2": "Belgium",
+            "CorrectOutcomePoints": 3,
+            "ExactScorePoints": 6,
+            "Stage": "Quarter-finals",
+            "Group": ""
+        },
+        {
+            "Date": "2024-07-05 19:00:00",
+            "Team1": "England",
+            "Team1Score": 1,
+            "Team2Score": 1,
+            "Team2": "France",
+            "CorrectOutcomePoints": 3,
+            "ExactScorePoints": 6,
+            "Stage": "Quarter-finals",
+            "Group": ""
+        },
+        {
+            "Date": "2024-07-06 16:00:00",
+            "Team1": "Spain",
+            "Team1Score": 2,
+            "Team2Score": 1,
+            "Team2": "Portugal",
+            "CorrectOutcomePoints": 3,
+            "ExactScorePoints": 6,
+            "Stage": "Quarter-finals",
+            "Group": ""
+        },
+        {
+            "Date": "2024-07-06 19:00:00",
+            "Team1": "Netherlands",
+            "Team1Score": 3,
+            "Team2Score": 2,
+            "Team2": "Poland",
+            "CorrectOutcomePoints": 3,
+            "ExactScorePoints": 6,
+            "Stage": "Quarter-finals",
+            "Group": ""
+        },
+        {
+            "Date": "2024-07-09 20:00:00",
+            "Team1": "Germany",
+            "Team1Score": 1,
+            "Team2Score": 0,
+            "Team2": "France",
+            "CorrectOutcomePoints": 4,
+            "ExactScorePoints": 8,
+            "Stage": "Semi-finals",
+            "Group": ""
+        },
+        {
+            "Date": "2024-07-10 20:00:00",
+            "Team1": "Spain",
+            "Team1Score": 2,
+            "Team2Score": 1,
+            "Team2": "Netherlands",
+            "CorrectOutcomePoints": 4,
+            "ExactScorePoints": 8,
+            "Stage": "Semi-finals",
+            "Group": ""
+        },
+        {
+            "Date": "2024-07-13 20:00:00",
+            "Team1": "Germany",
+            "Team1Score": 2,
+            "Team2Score": 1,
+            "Team2": "Spain",
+            "CorrectOutcomePoints": 5,
+            "ExactScorePoints": 10,
+            "Stage": "Final",
+            "Group": ""
+        }
+    ],
+    "qualifyingTeams": {
+        "Round of 16": [
+            "Germany",
+            "Hungary",
+            "Belgium",
+            "Ukraine",
+            "England",
+            "France",
+            "Spain",
+            "Portugal"
+        ],
+        "Quarter-finals": [
+            "Germany",
+            "Belgium",
+            "France",
+            "Portugal"
+        ],
+        "Semi-finals": [
+            "Germany",
+            "France"
+        ],
+        "Final": [
+            "Germany"
+        ],
+        "Winner": "Germany"
+    }
+}
